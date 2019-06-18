@@ -1,0 +1,6 @@
+https://data.world/search?page=1&q=Credit+card&tab=all
+https://data.world/gautam2510/credit-card-dataset
+https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions
+https://datahub.io/machine-learning/bank-marketing
+https://github.com/AKSHANSH47/Fraud-Detection
+https://github.com/englianhu/mortgage-repayment
