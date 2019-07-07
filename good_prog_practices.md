@@ -1,0 +1,24 @@
+### good programming practices
+
+- understand requirements, objectives before starting to write any code
+- comment, doc strings
+- naming conventions
+- functions, classes, modules - DRY, reuse, learn to google well
+- don't reinvent the wheel, don't blindly copy/paste code
+- separate data and logic
+- use config, don't hardcode
+- never store passwords, keys in your code
+- logging with a proper logger
+- error handling with exceptions etc.
+- graceful failure != silent failure
+- don't optimize, automate unnecessarily
+- version control
+- testing
+- use proper debugger
+- don't ignore warnings - e.g. deprecations, type conversions etc.
+- have your code reviewed
+- document and share learnings
+- back up, check in to bitbucket frequently
+- use TODO as a reminder of fixing small things
+- ask for help when you're stuck
+- learn to adapt - writing bad code when required is okay
